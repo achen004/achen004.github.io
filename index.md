@@ -1,35 +1,38 @@
 ## Portfolio
 
+### Social & Entertainment Data Science Projects
 ---
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+[User-Context Driven Approach to Detecting Cross-Platform Coordinated](https://github.com/achen004/social-network-url-clustering)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[NCAA to NBA College Prospects](https://github.com/achen004/college_to_nba_projections/tree/main)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Million Song Dataset Recommender System](https://github.com/achen004/DS-1004-Recommender_System-Project)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Financial Data Science Projects
+---
+[Reinforcement Learning Day Trading](https://github.com/achen004/RL-project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Banca Massiccia: Credit Risk Modeling](https://github.com/achen004/Probability-of-Default)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Audit of Costa Rican Household Poverty Level Prediction](https://github.com/achen004/Responsible-Data-Science)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
-
+### Public Policy Data Science Projects
+---
+[Exploring The American Recovery and Reinvestment Act’s Impact on Federal Grant Funding & Renewable Energy Patents](https://github.com/achen004/Big-Data-Public-Policy)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+[To Be, or Not to Be, an Exoplanet](https://github.com/achen004/DS-1001-Project)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
