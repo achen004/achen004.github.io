@@ -1,10 +1,7 @@
 title: Anthony Chen # your name (or website title) here
 
 
-logo: <img src="/images/selfie.png?raw=true"> # your photo (or logo) here
-
-
-
+logo: ![Selfie]( {{https://achen004.github.io/}}/images/selfie.png ) #<img src="/images/selfie.png?raw=true"> # your photo (or logo) here
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
