@@ -35,7 +35,7 @@
 
 ### Public Policy Data Science Projects
 ---
-[Exploring The American Recovery and Reinvestment Act’s Impact on Federal Grant Funding & Renewable Energy Patents] (https://github.com/achen004/Big-Data-Public-Policy)
+[Exploring The American Recovery and Reinvestment Act’s Impact on Federal Grant Funding & Renewable Energy Patents](https://github.com/achen004/Big-Data-Public-Policy)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
