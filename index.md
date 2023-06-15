@@ -2,7 +2,7 @@
 
 ### Social & Entertainment Data Science Projects
 ---
-[User-Context Driven Approach to Detecting Cross-Platform Coordinated](https://github.com/achen004/social-network-url-clustering)
+[User-Context Driven Approach to Detecting Cross-Platform Coordinated Influence Campaigns](https://github.com/achen004/social-network-url-clustering)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
