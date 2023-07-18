@@ -2,7 +2,9 @@ title: Anthony Chen # your name (or website title) here
 
 
 #![Me](./images/Self.png)
-<img src="https://raw.githubusercontent.com/achen004/achen004.github.io/master/images/Self.png"/>
+<p>
+  <img src="https://raw.githubusercontent.com/achen004/achen004.github.io/master/images/Self.png"/>
+</p>
 #<img src="https://github.com/achen004/achen004.github.io/master/images/Self.png"/>
 #"images/Selfie.png?raw=true" # ![Me]( {{https://achen004.github.io/}}images/Selfie.png ) #
 
